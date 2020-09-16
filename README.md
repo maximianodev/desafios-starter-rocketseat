@@ -1,4 +1,5 @@
-# desafios-starter-rocketseat
+# Desafios do Curso
+
 Repositório contendo todos os desafios do curso "Starter" da Rocketseat.
 
 ![Rocketseat](https://raw.githubusercontent.com/sr-max/desafios-starter-rocketseat/master/1.png)
